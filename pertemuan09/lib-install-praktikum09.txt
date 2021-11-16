@@ -1,0 +1,14 @@
+conda install -c conda-forge feature_engine
+conda install -c conda-forge category_encoders
+pip install feature-engine==0.3.0
+
+pip install xgboost
+
+pip install scikit-image
+conda install scikit-image
+
+conda install -c conda-forge opencv
+
+pip install -U feature-engine
+
+conda install -c conda-forge missingno
